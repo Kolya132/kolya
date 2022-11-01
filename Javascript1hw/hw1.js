@@ -39,6 +39,8 @@ let b = '100'
 console.log(typeof b)
 let c = true
 console.log(typeof c)
+// Додаткове для тих хто цікавився promptoм
+// - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
 console.log(prompt('your name please'))
-console.log(prompt('your father`s name please'))
+console.log(prompt('як вас по батькові'))
 console.log(prompt('your age please'))
